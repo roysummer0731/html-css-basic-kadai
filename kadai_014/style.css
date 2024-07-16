@@ -1,0 +1,40 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+/*  */
+html{font-size: 20px;
+      text-align: center;
+}
+
+h1{
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+  text-shadow: 1px 1px 2px hwb(207 7% 18%);
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  border: solid 3px rgb(115, 115, 114);
+  
+}
+/* Mをスカイブルーに */
+span.sky{
+   color: skyblue;
+}
+/* Pをピンクに */
+span.pink{
+  color: rgb(255, 192, 203);
+}
+
+/* Pを太字に */
+#besic P{
+  font-weight:bold ;
+}
+
+/* texit-skyをスカイブルー色に */
+.text-sky{color:skyblue;
+} 
+
+/* texit-pinkをピンク色に */
+.text-pink{color: rgb(255, 192, 203);
+} 
+
+
